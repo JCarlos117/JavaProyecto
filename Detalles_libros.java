@@ -21,6 +21,8 @@ public class Detalles_libros {
 
         System.out.println(titulo + " fue escrito por " + autor);
 
+        System.out.println("modificacion de archivo");
+
     }
 
 }
